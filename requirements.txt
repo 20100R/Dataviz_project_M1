@@ -2,7 +2,6 @@ streamlit
 pandas
 requests
 altair
-BytesIO
 seaborn
 matplotlib
 numpy 
