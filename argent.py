@@ -107,7 +107,7 @@ def barre_gauche():
     if st.session_state.show_sidebar:
         # Les informations que vous souhaitez afficher dans la barre latérale
         st.sidebar.write("Vincent Reslou")
-        st.sidebar.write("Promo 2014")
+        st.sidebar.write("Promo 2025")
         st.sidebar.write("M1 BIA2")
         st.sidebar.write("[Linkedin/vincent.reslou](https://www.linkedin.com/in/vincent-reslou/)")
         st.sidebar.write(" #datavz2023efrei")
